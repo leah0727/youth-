@@ -4,3 +4,8 @@
 - Visualized school and youth center locations using Tableau, calculated distances with the Haversine Formula, and identified rural accessibility challenges.
 - Skills: Python, Pandas, Matplotlib, Seaborn, Numpy, Folium, Haversine Formula, Tableau
 
+<br>
+  <p align="center">
+  <img width="1235" src="https://github.com/leah0727/youth-/issues/1#issue-2717270364">
+
+</p>
